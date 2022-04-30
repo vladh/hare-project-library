@@ -9,20 +9,28 @@ to be used by a wider audience.
 ## Graphics
 
 * [~vladh/glad](https://git.sr.ht/~vladh/glad): Fork of https://github.com/Dav1dde/glad with Hare support
-* [~vladh/hare-gl](https://sr.ht/~vladh/hare-gl): OpenGL bindings for Hare.
-* [~vladh/hare-glm](https://sr.ht/~vladh/hare-glm): An OpenGL-compatible linear algebra library for Hare.
-* [~vladh/hare-peony](https://sr.ht/~vladh/hare-peony): A 3D game engine written from scratch in Hare based on the original peony game engine.
-* [~vladh/starfield](https://sr.ht/~vladh/starfield): The Windows 3.1 “starfield” screensaver in Hare.
+* [~vladh/hare-gl](https://sr.ht/~vladh/hare-gl): OpenGL bindings for Hare
+* [~vladh/hare-glm](https://sr.ht/~vladh/hare-glm): An OpenGL-compatible linear algebra library for Hare
+* [~vladh/hare-peony](https://sr.ht/~vladh/hare-peony): A 3D game engine written from scratch in Hare based on the original peony game engine
+* [~vladh/starfield](https://sr.ht/~vladh/starfield): The Windows 3.1 “starfield” screensaver in Hare
+
+## Hare language utilities
+
+* [~sebsite/hareconv](https://git.sr.ht/~sebsite/hareconv): Hare module -> C header converter
+* [~sebsite/haretags](https://git.sr.ht/~sebsite/haretags): ctags implementation for Hare
+
+## Parsers
+
+* [~chrisppy/hare-atom](https://git.sr.ht/~chrisppy/hare-atom): atom implementation for Hare
+* [~chrisppy/hare-rss](https://git.sr.ht/~chrisppy/hare-rss): rss implementation for Hare
+* [~chrisppy/hare-scfg](https://git.sr.ht/~chrisppy/hare-scfg): A Hare library for a simple configuration file format
+
+## Utilities
+
+* [~apreiml/bigc](https://git.sr.ht/~apreiml/bigc): A big int calculator written in Hare
 
 ## Being sorted
 
-* https://git.d2evs.net/~ecs/moarutils
-* https://git.sr.ht/~apreiml/bigc
-* https://git.sr.ht/~chrisppy/hare-atom
-* https://git.sr.ht/~chrisppy/hare-rss
-* https://git.sr.ht/~chrisppy/hare-scfg
-* https://git.sr.ht/~sebsite/hareconv
-* https://git.sr.ht/~sebsite/haretags
 * https://git.sr.ht/~sircmpwn/btqd
 * https://git.sr.ht/~sircmpwn/echo
 * https://git.sr.ht/~sircmpwn/habf
