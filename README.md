@@ -2,17 +2,17 @@
 
 This page is a collection of projects from the Hare community. Feel free to
 submit your own by sending a patch to
-https://lists.sr.ht/~vladh/hare-project-library. I'll generally accept all
+[the mailing list](https://lists.sr.ht/~vladh/hare-project-library). I'll generally accept all
 patches, unless your project has very little code or is something unlikely
 to be used by a wider audience.
 
 ## Graphics
 
-* https://git.sr.ht/~vladh/glad: Fork of https://github.com/Dav1dde/glad with Hare support
-* https://sr.ht/~vladh/hare-gl: OpenGL bindings for Hare.
-* https://sr.ht/~vladh/hare-glm: An OpenGL-compatible linear algebra library for Hare.
-* https://sr.ht/~vladh/hare-peony: A 3D game engine written from scratch in Hare based on the original peony game engine.
-* https://sr.ht/~vladh/starfield: The Windows 3.1 “starfield” screensaver in Hare.
+* [~vladh/glad](https://git.sr.ht/~vladh/glad): Fork of https://github.com/Dav1dde/glad with Hare support
+* [~vladh/hare-gl](https://sr.ht/~vladh/hare-gl): OpenGL bindings for Hare.
+* [~vladh/hare-glm](https://sr.ht/~vladh/hare-glm): An OpenGL-compatible linear algebra library for Hare.
+* [~vladh/hare-peony](https://sr.ht/~vladh/hare-peony): A 3D game engine written from scratch in Hare based on the original peony game engine.
+* [~vladh/starfield](https://sr.ht/~vladh/starfield): The Windows 3.1 “starfield” screensaver in Hare.
 
 ## Being sorted
 
@@ -49,4 +49,3 @@ to be used by a wider audience.
 * https://git.sr.ht/~yerinalexey/hare-libui
 * https://git.sr.ht/~yerinalexey/kanji
 * https://git.sr.ht/~yerinalexey/stopwatch
-* 
