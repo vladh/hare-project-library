@@ -67,6 +67,7 @@ to be used by a wider audience.
 * [~chrisppy/hare-scfg](https://git.sr.ht/~chrisppy/hare-scfg): A Hare library for a simple configuration file format
 * [~sircmpwn/hare-png](https://git.sr.ht/~sircmpwn/hare-png)†: PNG implementation for Hare
 * [~sircmpwn/hare-xml](https://git.sr.ht/~sircmpwn/hare-xml)†: XML support for Hare
+* [~ytada/hare-json](https://git.sr.ht/~ytada/hare-json): JSON implementation for Hare
 
 ## Utilities and system tools
 
