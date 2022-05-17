@@ -65,6 +65,7 @@ to be used by a wider audience.
 * [~chrisppy/hare-atom](https://git.sr.ht/~chrisppy/hare-atom): atom implementation for Hare
 * [~chrisppy/hare-rss](https://git.sr.ht/~chrisppy/hare-rss): rss implementation for Hare
 * [~chrisppy/hare-scfg](https://git.sr.ht/~chrisppy/hare-scfg): A Hare library for a simple configuration file format
+* [~ecs/hare-stl](https://git.d2evs.net/~ecs/hare-stl): STL implementation for Hare
 * [~sircmpwn/hare-png](https://git.sr.ht/~sircmpwn/hare-png)†: PNG implementation for Hare
 * [~sircmpwn/hare-xml](https://git.sr.ht/~sircmpwn/hare-xml)†: XML support for Hare
 * [~ytada/hare-json](https://git.sr.ht/~ytada/hare-json): JSON implementation for Hare
@@ -81,4 +82,3 @@ to be used by a wider audience.
 * [~yerinalexey/box](https://git.sr.ht/~yerinalexey/box): Command line encryption utility
 * [~yerinalexey/git-walk.ha](https://git.sr.ht/~yerinalexey/git-walk.ha): Hare implementation of git log/show commands
 * [~yerinalexey/stopwatch](https://git.sr.ht/~yerinalexey/stopwatch): Terminal stopwatch program
-* [~ecs/hare-stl](https://git.d2evs.net/~ecs/hare-stl): STL implementation for Hare
