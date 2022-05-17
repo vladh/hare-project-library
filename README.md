@@ -6,13 +6,19 @@ submit your own by sending a patch to
 patches, unless your project has very little code or is something unlikely
 to be used by a wider audience.
 
+† project included in the [Hare extended support libraries](https://harelang.org/extended/)
+
+## Algorithms
+
+* [~sircmpwn/hare-compress](https://git.sr.ht/~sircmpwn/hare-compress)†: Compression algorithms for Hare
+
 ## Compilers and interpreters
 
 * [~sircmpwn/habf](https://git.sr.ht/~sircmpwn/habf): Hare brainfuck compiler
 
 ## Database tools
 
-* [~sircmpwn/hare-redis](https://git.sr.ht/~sircmpwn/hare-redis): Redis client for Hare
+* [~sircmpwn/hare-redis](https://git.sr.ht/~sircmpwn/hare-redis)†: Redis client for Hare
 
 ## General applications
 
@@ -52,13 +58,15 @@ to be used by a wider audience.
 ## Operating systems
 
 * [~sircmpwn/helios](https://sr.ht/~sircmpwn/helios): An experimental microkernel
+* [~sircmpwn/hare-linux](https://git.sr.ht/~sircmpwn/hare-linux)†: Extended support for Linux
 
 ## Parsers and file format utilities
 
 * [~chrisppy/hare-atom](https://git.sr.ht/~chrisppy/hare-atom): atom implementation for Hare
 * [~chrisppy/hare-rss](https://git.sr.ht/~chrisppy/hare-rss): rss implementation for Hare
 * [~chrisppy/hare-scfg](https://git.sr.ht/~chrisppy/hare-scfg): A Hare library for a simple configuration file format
-* [~sircmpwn/hare-png](https://git.sr.ht/~sircmpwn/hare-png): PNG implementation for Hare
+* [~sircmpwn/hare-png](https://git.sr.ht/~sircmpwn/hare-png)†: PNG implementation for Hare
+* [~sircmpwn/hare-xml](https://git.sr.ht/~sircmpwn/hare-xml)†: XML support for Hare
 
 ## Utilities and system tools
 
