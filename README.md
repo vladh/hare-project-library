@@ -32,6 +32,8 @@ to be used by a wider audience.
 * [~turminal/raytracing](https://git.sr.ht/~turminal/raytracing): A simple ray tracer in Hare
 * [~vladh/glad](https://git.sr.ht/~vladh/glad): Fork of https://github.com/Dav1dde/glad with Hare support
 * [~vladh/hare-gl](https://sr.ht/~vladh/hare-gl): OpenGL bindings for Hare
+* [~vladh/hare-vulkan](https://sr.ht/~vladh/hare-vulkan): Vulkan bindings for Hare
+* [~vladh/hare-vulkan-hello-world](https://sr.ht/~vladh/hare-vulkan-hello-world): A simple demo of Hare's Vulkan bindings
 * [~vladh/hare-glm](https://sr.ht/~vladh/hare-glm): An OpenGL-compatible linear algebra library for Hare
 * [~vladh/hare-peony](https://sr.ht/~vladh/hare-peony): A 3D game engine written from scratch in Hare based on the original peony game engine
 * [~vladh/starfield](https://sr.ht/~vladh/starfield): The Windows 3.1 “starfield” screensaver in Hare
