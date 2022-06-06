@@ -1,12 +1,16 @@
 # Hare Project Library
 
-This page is a collection of projects written in Hare. Feel free to
-submit your own by sending a patch to
-[the mailing list](https://lists.sr.ht/~vladh/hare-project-library). I'll generally accept all
-patches, unless your project has very little code or is something unlikely
-to be used by a wider audience.
+This page is a collection of projects written in Hare. Feel free to submit your
+own by sending a patch to
+[the mailing list](https://lists.sr.ht/~vladh/hare-project-library).
+I'll generally accept all patches, unless your project has very little code or
+is something unlikely to be used by a wider audience.
 
-† project included in the [Hare extended support libraries](https://harelang.org/extended/)
+If you're interested specifically in 3D graphics, check out
+[hare-3d-graphics](https://sr.ht/~vladh/hare-3d-graphics/).
+
+† project included in the
+[Hare extended support libraries](https://harelang.org/extended/)
 
 ## Algorithms
 
