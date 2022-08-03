@@ -1,10 +1,20 @@
 # Hare Project Library
 
-This page is a collection of projects written in Hare. Feel free to
-submit your own by sending a patch to
-[the mailing list](https://lists.sr.ht/~vladh/hare-project-library). I'll generally accept all
-patches, unless your project has very little code or is something unlikely
-to be used by a wider audience.
+This page is a collection of projects written in Hare. Feel free to submit your
+own by sending a patch to
+[the mailing list](https://lists.sr.ht/~vladh/hare-project-library).
+I'll generally accept all patches, unless your project has very little code or
+is something unlikely to be used by a wider audience.
+
+If you're interested specifically in 3D graphics, check out
+[hare-3d-graphics](https://sr.ht/~vladh/hare-3d-graphics/).
+
+† project included in the
+[Hare extended support libraries](https://harelang.org/extended/)
+
+## Algorithms
+
+* [~sircmpwn/hare-compress](https://git.sr.ht/~sircmpwn/hare-compress)†: Compression algorithms for Hare
 
 ## Compilers and interpreters
 
@@ -12,7 +22,7 @@ to be used by a wider audience.
 
 ## Database tools
 
-* [~sircmpwn/hare-redis](https://git.sr.ht/~sircmpwn/hare-redis): Redis client for Hare
+* [~sircmpwn/hare-redis](https://git.sr.ht/~sircmpwn/hare-redis)†: Redis client for Hare
 
 ## Date and time
 
@@ -30,6 +40,8 @@ to be used by a wider audience.
 * [~turminal/raytracing](https://git.sr.ht/~turminal/raytracing): A simple ray tracer in Hare
 * [~vladh/glad](https://git.sr.ht/~vladh/glad): Fork of https://github.com/Dav1dde/glad with Hare support
 * [~vladh/hare-gl](https://sr.ht/~vladh/hare-gl): OpenGL bindings for Hare
+* [~vladh/hare-vulkan](https://sr.ht/~vladh/hare-vulkan): Vulkan bindings for Hare
+* [~vladh/hare-vulkan-hello-world](https://sr.ht/~vladh/hare-vulkan-hello-world): A simple demo of Hare's Vulkan bindings
 * [~vladh/hare-glm](https://sr.ht/~vladh/hare-glm): An OpenGL-compatible linear algebra library for Hare
 * [~vladh/hare-peony](https://sr.ht/~vladh/hare-peony): A 3D game engine written from scratch in Hare based on the original peony game engine
 * [~vladh/starfield](https://sr.ht/~vladh/starfield): The Windows 3.1 “starfield” screensaver in Hare
@@ -56,13 +68,17 @@ to be used by a wider audience.
 ## Operating systems
 
 * [~sircmpwn/helios](https://sr.ht/~sircmpwn/helios): An experimental microkernel
+* [~sircmpwn/hare-linux](https://git.sr.ht/~sircmpwn/hare-linux)†: Extended support for Linux
 
 ## Parsers and file format utilities
 
 * [~chrisppy/hare-atom](https://git.sr.ht/~chrisppy/hare-atom): atom implementation for Hare
 * [~chrisppy/hare-rss](https://git.sr.ht/~chrisppy/hare-rss): rss implementation for Hare
 * [~chrisppy/hare-scfg](https://git.sr.ht/~chrisppy/hare-scfg): A Hare library for a simple configuration file format
-* [~sircmpwn/hare-png](https://git.sr.ht/~sircmpwn/hare-png): PNG implementation for Hare
+* [~ecs/hare-stl](https://git.d2evs.net/~ecs/hare-stl): STL implementation for Hare
+* [~sircmpwn/hare-png](https://git.sr.ht/~sircmpwn/hare-png)†: PNG implementation for Hare
+* [~sircmpwn/hare-xml](https://git.sr.ht/~sircmpwn/hare-xml)†: XML support for Hare
+* [~ytada/hare-json](https://git.sr.ht/~ytada/hare-json): JSON implementation for Hare
 
 ## Utilities and system tools
 
