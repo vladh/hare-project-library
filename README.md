@@ -26,7 +26,7 @@ If you're interested specifically in 3D graphics, check out
 
 ## Date and time
 
-* [~torresjrjr/hare-mbc](https://git.sr.ht/~torresjrjr/hare-mbc): Martian-time "MBC" chronology
+* [~torresjrjr/hare-mbc](https://git.sr.ht/~torresjrjr/hare-mbc): Martian Business Calendar
 
 ## General applications
 
