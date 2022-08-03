@@ -14,6 +14,10 @@ to be used by a wider audience.
 
 * [~sircmpwn/hare-redis](https://git.sr.ht/~sircmpwn/hare-redis): Redis client for Hare
 
+## Date and time
+
+* [~torresjrjr/hare-mbc](https://git.sr.ht/~torresjrjr/hare-mbc): Martian-time "MBC" chronology
+
 ## General applications
 
 * [~sircmpwn/hare-wayland](https://git.sr.ht/~sircmpwn/hare-wayland): Wayland client & server implementation for Hare
