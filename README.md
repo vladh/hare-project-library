@@ -41,9 +41,9 @@ If you're interested specifically in 3D graphics, check out
 * [~vladh/glad](https://git.sr.ht/~vladh/glad): Fork of https://github.com/Dav1dde/glad with Hare support
 * [~vladh/hare-gl](https://sr.ht/~vladh/hare-gl): OpenGL bindings for Hare
 * [~vladh/hare-vulkan](https://sr.ht/~vladh/hare-vulkan): Vulkan bindings for Hare
-* [~vladh/hare-vulkan-hello-world](https://sr.ht/~vladh/hare-vulkan-hello-world): A simple demo of Hare's Vulkan bindings
 * [~vladh/hare-glm](https://sr.ht/~vladh/hare-glm): An OpenGL-compatible linear algebra library for Hare
-* [~vladh/hare-peony](https://sr.ht/~vladh/hare-peony): A 3D game engine written from scratch in Hare based on the original peony game engine
+* [~vladh/hare-hazel](https://sr.ht/~vladh/hare-hazel): A simple 3D game engine written from scratch in Hare
+* [~vladh/hare-vulkan-hello-world](https://sr.ht/~vladh/hare-vulkan-hello-world): A simple demo of Hare's Vulkan bindings
 * [~vladh/starfield](https://sr.ht/~vladh/starfield): The Windows 3.1 “starfield” screensaver in Hare
 
 ## GUI
