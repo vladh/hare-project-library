@@ -57,6 +57,11 @@ If you're interested specifically in 3D graphics, check out
 * [~sebsite/haretags](https://git.sr.ht/~sebsite/haretags): ctags implementation for Hare
 * [~sircmpwn/hare-virt](https://git.sr.ht/~sircmpwn/hare-virt): hare-virt provides hypervisor support for Hare programs
 
+# Hare LSP servers
+
+* [~jfreymuth/hare-ls](https://git.sr.ht/~jfreymuth/hare-ls): hare-ls is a language server for Hare
+* [~tomleb/harepls](https://sr.ht/~tomleb/harepls/): A LSP server for the Hare language
+
 ## Networking
 
 * [~sircmpwn/btqd](https://git.sr.ht/~sircmpwn/btqd): Bittorrent queue daemon
