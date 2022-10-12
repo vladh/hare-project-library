@@ -64,6 +64,10 @@ If you're interested specifically in 3D graphics, check out
 * [~jfreymuth/hare-ls](https://git.sr.ht/~jfreymuth/hare-ls): hare-ls is a language server for Hare
 * [~tomleb/harepls](https://sr.ht/~tomleb/harepls/): A LSP server for the Hare language
 
+## Math
+
+* [~smlavine/quadratic](https://sr.ht/~smlavine/quadratic): A simple command-line quadratic formula solver
+
 ## Networking
 
 * [~sircmpwn/btqd](https://git.sr.ht/~sircmpwn/btqd): Bittorrent queue daemon
