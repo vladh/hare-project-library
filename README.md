@@ -19,8 +19,7 @@ If you're interested specifically in 3D graphics, check out
 ## Compilers and interpreters
 
 * [~smlavine/bf](https://sr.ht/~smlavine/bf): Modular Brainfuck interpreter written in Hare
-
-* [~sircmpwn/habf](https://git.sr.ht/~sircmpwn/habf): Hare brainfuck compiler
+* [~sircmpwn/habf](https://git.sr.ht/~sircmpwn/habf): Hare Brainfuck compiler
 
 ## Database tools
 
