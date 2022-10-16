@@ -47,6 +47,7 @@ If you're interested specifically in 3D graphics, check out
 * [~vladh/hare-vulkan-hello-world](https://sr.ht/~vladh/hare-vulkan-hello-world): A simple demo of Hare's Vulkan bindings
 * [~vladh/hare-vulkan](https://sr.ht/~vladh/hare-vulkan): Vulkan bindings for Hare
 * [~vladh/starfield](https://sr.ht/~vladh/starfield): The Windows 3.1 “starfield” screensaver in Hare
+* [~une/hare-cairo](https://git.sr.ht/~une/hare-cairo): Cairo bindings for Hare
 
 ## GUI
 
