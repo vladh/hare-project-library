@@ -77,6 +77,7 @@ If you're interested specifically in 3D graphics, check out
 * [~sircmpwn/toothbrush](https://git.sr.ht/~sircmpwn/toothbrush): A finger server and client
 * [~yerinalexey/kanji](https://git.sr.ht/~yerinalexey/kanji): Modern IRC server
 * [~bitfehler/hare-tftp](https://git.sr.ht/~bitfehler/hare-tftp): WIP TFTP library/client/server
+* [~illiliti/hare-dnscrypt](https://codeberg.org/illiliti/hare-dnscrypt): dnscrypt client & server
 
 ## Operating systems
 
