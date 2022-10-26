@@ -52,6 +52,7 @@ If you're interested specifically in 3D graphics, check out
 ## GUI
 
 * [~yerinalexey/hare-libui](https://git.sr.ht/~yerinalexey/hare-libui): Work-in-progress Hare bindings for the libui library
+* [~renart/hare-bemenu](https://git.sr.ht/~renart/hare-bemenu): Hare bindings for bemenu
 
 ## Hare language utilities
 
