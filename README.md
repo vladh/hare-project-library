@@ -68,6 +68,7 @@ If you're interested specifically in 3D graphics, check out
 ## Math
 
 * [~smlavine/quadratic](https://sr.ht/~smlavine/quadratic): A simple command-line quadratic formula solver
+* [~yerinalexey/csq](https://sr.ht/~yerinalexey/csq): A calculator for common fractions
 
 ## Networking
 
