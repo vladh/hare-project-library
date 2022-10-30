@@ -97,7 +97,7 @@ If you're interested specifically in 3D graphics, check out
 * [~pierrec/hare-qoi](https://git.sr.ht/~pierrec/hare-qoi): QOI lossless image format
 * [~sircmpwn/hare-png](https://git.sr.ht/~sircmpwn/hare-png)†: PNG implementation for Hare
 * [~sircmpwn/hare-xml](https://git.sr.ht/~sircmpwn/hare-xml)†: XML support for Hare
-* [~ytada/hare-json](https://git.sr.ht/~ytada/hare-json): JSON implementation for Hare
+* [~sircmpwn/hare-json](https://sr.ht/~sircmpwn/hare-json)†: JSON support for Hare
 
 ## Utilities and system tools
 
