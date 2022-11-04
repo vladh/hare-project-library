@@ -14,6 +14,7 @@ If you're interested specifically in 3D graphics, check out
 
 ## Algorithms
 
+* [~pierrec/hare-lz4](https://git.sr.ht/~pierrec/hare-lz4): LZ4 compression algorithm
 * [~sircmpwn/hare-compress](https://git.sr.ht/~sircmpwn/hare-compress)†: Compression algorithms for Hare
 
 ## Compilers and interpreters
@@ -111,3 +112,4 @@ If you're interested specifically in 3D graphics, check out
 * [~yerinalexey/box](https://git.sr.ht/~yerinalexey/box): Command line encryption utility
 * [~yerinalexey/git-walk.ha](https://git.sr.ht/~yerinalexey/git-walk.ha): Hare implementation of git log/show commands
 * [~yerinalexey/stopwatch](https://git.sr.ht/~yerinalexey/stopwatch): Terminal stopwatch program
+
