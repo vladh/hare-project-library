@@ -81,6 +81,7 @@ If you're interested specifically in 3D graphics, check out
 * [~yerinalexey/kanji](https://git.sr.ht/~yerinalexey/kanji): Modern IRC server
 * [~bitfehler/hare-tftp](https://git.sr.ht/~bitfehler/hare-tftp): WIP TFTP library/client/server
 * [~illiliti/hare-dnscrypt](https://codeberg.org/illiliti/hare-dnscrypt): dnscrypt client & server
+* [~apreiml/hare-tls](https://git.sr.ht/~apreiml/hare-tls): WIP hare TLS library
 
 ## Operating systems
 
@@ -102,7 +103,6 @@ If you're interested specifically in 3D graphics, check out
 
 ## Utilities and system tools
 
-* [~apreiml/bigc](https://git.sr.ht/~apreiml/bigc): A big int calculator written in Hare
 * [~sircmpwn/harsh](https://git.sr.ht/~sircmpwn/harsh): A Unix shell inspired by Plan 9's rc
 * [~sircmpwn/hautils](https://git.sr.ht/~sircmpwn/hautils): POSIX utilities implemented in Hare
 * [~sircmpwn/scheduled](https://git.sr.ht/~sircmpwn/scheduled): A daemon for scheduling tasks
