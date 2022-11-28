@@ -37,9 +37,11 @@ If you're interested specifically in 3D graphics, check out
 
 ## Graphics
 
+* [~evantj/hare-raylib](https://git.sr.ht/~evantj/hare-raylib): raylib bindings for Hare
 * [~sircmpwn/hare-sdl2](https://git.sr.ht/~sircmpwn/hare-sdl2): SDL2 bindings for Hare
 * [~sircmpwn/tetrominoes](https://git.sr.ht/~sircmpwn/tetrominoes): Tetromino game
 * [~turminal/raytracing](https://git.sr.ht/~turminal/raytracing): A simple ray tracer in Hare
+* [~une/hare-cairo](https://git.sr.ht/~une/hare-cairo): Cairo bindings for Hare
 * [~vladh/glad](https://git.sr.ht/~vladh/glad): Fork of https://github.com/Dav1dde/glad with Hare support
 * [~vladh/hare-gl](https://sr.ht/~vladh/hare-gl): OpenGL bindings for Hare
 * [~vladh/hare-glm](https://sr.ht/~vladh/hare-glm): An OpenGL-compatible linear algebra library for Hare
@@ -48,7 +50,6 @@ If you're interested specifically in 3D graphics, check out
 * [~vladh/hare-vulkan-hello-world](https://sr.ht/~vladh/hare-vulkan-hello-world): A simple demo of Hare's Vulkan bindings
 * [~vladh/hare-vulkan](https://sr.ht/~vladh/hare-vulkan): Vulkan bindings for Hare
 * [~vladh/starfield](https://sr.ht/~vladh/starfield): The Windows 3.1 “starfield” screensaver in Hare
-* [~une/hare-cairo](https://git.sr.ht/~une/hare-cairo): Cairo bindings for Hare
 
 ## GUI
 
