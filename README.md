@@ -81,7 +81,7 @@ If you're interested specifically in 3D graphics, check out
 
 * [~blainsmith/hare-clrfmt](https://git.sr.ht/~blainsmith/hare-clrfmt): ANSI colorized text in the terminal
 * [~blainsmith/hare-prometheus](https://git.sr.ht/~blainsmith/hare-prometheus): A logfmt formatter for [log::logger](https://docs.harelang.org/log)
-* [~blainsmith/hare-prometheus](https://git.sr.ht/~blainsmith/hare-prometheus): WIP [Prometheus](https://prometheus.io) metrics
+* [~blainsmith/hare-prometheus](https://git.sr.ht/~blainsmith/hare-prometheus): [Prometheus](https://prometheus.io) metrics
 
 ## Networking
 
@@ -91,10 +91,10 @@ If you're interested specifically in 3D graphics, check out
 * [~sircmpwn/harebot](https://git.sr.ht/~sircmpwn/harebot): IRC bot for the #hare channel on libera.chat
 * [~sircmpwn/toothbrush](https://git.sr.ht/~sircmpwn/toothbrush): A finger server and client
 * [~yerinalexey/kanji](https://git.sr.ht/~yerinalexey/kanji): Modern IRC server
-* [~bitfehler/hare-tftp](https://git.sr.ht/~bitfehler/hare-tftp): WIP TFTP library/client/server
+* [~bitfehler/hare-tftp](https://git.sr.ht/~bitfehler/hare-tftp): TFTP library/client/server
 * [~illiliti/hare-dnscrypt](https://codeberg.org/illiliti/hare-dnscrypt): dnscrypt client & server
-* [~apreiml/hare-tls](https://git.sr.ht/~apreiml/hare-tls): WIP hare TLS library
-* [~blainsmith/hare-icmp](https://git.sr.ht/~blainsmith/hare-icmp): WIP hare ICMP library
+* [~apreiml/hare-tls](https://git.sr.ht/~apreiml/hare-tls): Hare TLS library
+* [~blainsmith/hare-icmp](https://git.sr.ht/~blainsmith/hare-icmp): Hare ICMP library
 
 ## Operating systems
 
