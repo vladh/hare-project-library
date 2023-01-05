@@ -80,7 +80,7 @@ If you're interested specifically in 3D graphics, check out
 ## Observability, metrics, logging, and tracing
 
 * [~blainsmith/hare-clrfmt](https://git.sr.ht/~blainsmith/hare-clrfmt): ANSI colorized text in the terminal
-* [~blainsmith/hare-prometheus](https://git.sr.ht/~blainsmith/hare-prometheus): A logfmt formatter for [log::logger](https://docs.harelang.org/log)
+* [~blainsmith/hare-logfmt](https://git.sr.ht/~blainsmith/hare-logfmt): A logfmt formatter for [log::logger](https://docs.harelang.org/log)
 * [~blainsmith/hare-prometheus](https://git.sr.ht/~blainsmith/hare-prometheus): [Prometheus](https://prometheus.io) metrics
 
 ## Networking
