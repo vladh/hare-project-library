@@ -60,7 +60,6 @@ If you're interested specifically in 3D graphics, check out
 
 * [~sebsite/hareconv](https://git.sr.ht/~sebsite/hareconv): Hare module -> C header converter
 * [~sebsite/haretags](https://git.sr.ht/~sebsite/haretags): ctags implementation for Hare
-* [~sircmpwn/hare-virt](https://git.sr.ht/~sircmpwn/hare-virt): hare-virt provides hypervisor support for Hare programs
 
 ## Hare LSP servers
 
@@ -86,9 +85,10 @@ If you're interested specifically in 3D graphics, check out
 
 ## Operating systems
 
-* [~sircmpwn/helios](https://sr.ht/~sircmpwn/helios): An experimental microkernel
-* [~sircmpwn/hare-linux](https://git.sr.ht/~sircmpwn/hare-linux)†: Extended support for Linux
 * [~bitfehler/hare-netlink](https://git.sr.ht/~bitfehler/hare-netlink): Native Hare access to the Linux netlink API
+* [~sircmpwn/hare-linux](https://git.sr.ht/~sircmpwn/hare-linux)†: Extended support for Linux
+* [~sircmpwn/hare-virt](https://git.sr.ht/~sircmpwn/hare-virt): hare-virt provides hypervisor support for Hare programs
+* [~sircmpwn/helios](https://sr.ht/~sircmpwn/helios): An experimental microkernel
 
 ## Parsers and file format utilities
 
