@@ -22,9 +22,14 @@ If you're interested specifically in 3D graphics, check out
 * [~smlavine/bf](https://sr.ht/~smlavine/bf): Modular Brainfuck interpreter written in Hare
 * [~sircmpwn/habf](https://git.sr.ht/~sircmpwn/habf): Hare Brainfuck compiler
 
+## Cryptography and hashing
+
+* [~blainsmith/hare-seahash](https://git.sr.ht/~blainsmith/hare-seahash): Seahash hashing algorithm
+
 ## Database tools
 
 * [~sircmpwn/hare-redis](https://git.sr.ht/~sircmpwn/hare-redis)†: Redis client for Hare
+* [~blainsmith/hare-sqlite](https://git.sr.ht/~blainsmith/hare-sqlite): SQLite client for Hare
 
 ## Date and time
 
@@ -60,6 +65,7 @@ If you're interested specifically in 3D graphics, check out
 
 * [~sebsite/hareconv](https://git.sr.ht/~sebsite/hareconv): Hare module -> C header converter
 * [~sebsite/haretags](https://git.sr.ht/~sebsite/haretags): ctags implementation for Hare
+* [~yerinalexey/hare-annotate](https://git.sr.ht/~yerinalexey/hare-annotate): A library for implementing code generators
 
 ## Hare LSP servers
 
@@ -71,6 +77,12 @@ If you're interested specifically in 3D graphics, check out
 * [~smlavine/quadratic](https://sr.ht/~smlavine/quadratic): A simple command-line quadratic formula solver
 * [~yerinalexey/csq](https://sr.ht/~yerinalexey/csq): A calculator for common fractions
 
+## Observability, metrics, logging, and tracing
+
+* [~blainsmith/hare-clrfmt](https://git.sr.ht/~blainsmith/hare-clrfmt): ANSI colorized text in the terminal
+* [~blainsmith/hare-logfmt](https://git.sr.ht/~blainsmith/hare-logfmt): A logfmt formatter for [log::logger](https://docs.harelang.org/log)
+* [~blainsmith/hare-prometheus](https://git.sr.ht/~blainsmith/hare-prometheus): [Prometheus](https://prometheus.io) metrics
+
 ## Networking
 
 * [~sircmpwn/btqd](https://git.sr.ht/~sircmpwn/btqd): Bittorrent queue daemon
@@ -79,9 +91,10 @@ If you're interested specifically in 3D graphics, check out
 * [~sircmpwn/harebot](https://git.sr.ht/~sircmpwn/harebot): IRC bot for the #hare channel on libera.chat
 * [~sircmpwn/toothbrush](https://git.sr.ht/~sircmpwn/toothbrush): A finger server and client
 * [~yerinalexey/kanji](https://git.sr.ht/~yerinalexey/kanji): Modern IRC server
-* [~bitfehler/hare-tftp](https://git.sr.ht/~bitfehler/hare-tftp): WIP TFTP library/client/server
+* [~bitfehler/hare-tftp](https://git.sr.ht/~bitfehler/hare-tftp): TFTP library/client/server
 * [~illiliti/hare-dnscrypt](https://codeberg.org/illiliti/hare-dnscrypt): dnscrypt client & server
-* [~apreiml/hare-tls](https://git.sr.ht/~apreiml/hare-tls): WIP hare TLS library
+* [~apreiml/hare-tls](https://git.sr.ht/~apreiml/hare-tls): Hare TLS library
+* [~blainsmith/hare-icmp](https://git.sr.ht/~blainsmith/hare-icmp): Hare ICMP library
 
 ## Operating systems
 
@@ -96,14 +109,18 @@ If you're interested specifically in 3D graphics, check out
 * [~chrisppy/hare-rss](https://git.sr.ht/~chrisppy/hare-rss): rss implementation for Hare
 * [~chrisppy/hare-scfg](https://git.sr.ht/~chrisppy/hare-scfg): A Hare library for a simple configuration file format
 * [~ecs/hare-stl](https://git.d2evs.net/~ecs/hare-stl): STL implementation for Hare
+* [~phw/hare-discid](https://git.sr.ht/~phw/hare-discid/): Hare bindings for MusicBrainz libdiscid
 * [~pierrec/hare-bmp](https://git.sr.ht/~pierrec/hare-bmp): BMP lossless image format
 * [~pierrec/hare-qoi](https://git.sr.ht/~pierrec/hare-qoi): QOI lossless image format
-* [~sircmpwn/hare-png](https://git.sr.ht/~sircmpwn/hare-png)†: PNG implementation for Hare
-* [~sircmpwn/hare-xml](https://git.sr.ht/~sircmpwn/hare-xml)†: XML support for Hare
 * [~sircmpwn/hare-json](https://sr.ht/~sircmpwn/hare-json)†: JSON support for Hare
+* [~sircmpwn/hare-png](https://git.sr.ht/~sircmpwn/hare-png)†: PNG implementation for Hare
+* [~sircmpwn/hare-qoi](https://git.sr.ht/~sircmpwn/hare-qoi): Quite OK image format for Hare
+* [~sircmpwn/hare-xml](https://git.sr.ht/~sircmpwn/hare-xml)†: XML support for Hare
 
 ## Utilities and system tools
 
+* [~autumnull/haredo](https://sr.ht/~autumnull/haredo): A simple and unix-idiomatic build automator
+* [~autumnull/treecat](https://sr.ht/~autumnull/treecat/): Serialize a directory to a tree diagram, and vice versa
 * [~sircmpwn/harsh](https://git.sr.ht/~sircmpwn/harsh): A Unix shell inspired by Plan 9's rc
 * [~sircmpwn/hautils](https://git.sr.ht/~sircmpwn/hautils): POSIX utilities implemented in Hare
 * [~sircmpwn/scheduled](https://git.sr.ht/~sircmpwn/scheduled): A daemon for scheduling tasks
