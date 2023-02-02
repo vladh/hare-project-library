@@ -37,16 +37,23 @@ If you're interested specifically in 3D graphics, check out
 
 ## General applications
 
-* [~sircmpwn/hare-wayland](https://git.sr.ht/~sircmpwn/hare-wayland): Wayland client & server implementation for Hare
 * [~sircmpwn/himitsu](https://sr.ht/~sircmpwn/himitsu): A secret storage system
 
-## Graphics
+## Graphics, 2D
+
+* [~sircmpwn/hare-vec](https://git.sr.ht/~sircmpwn/hare-vec): Vector graphics library for Hare
+* [~sircmpwn/hare-wayland](https://git.sr.ht/~sircmpwn/hare-wayland): Wayland client & server implementation for Hare
+* [~sircmpwn/pixbuf](https://git.sr.ht/~sircmpwn/pixbuf): Pixel buffers for Hare
+* [~sircmpwn/tetrominoes](https://git.sr.ht/~sircmpwn/tetrominoes): Tetromino game
+* [~une/hare-cairo](https://git.sr.ht/~une/hare-cairo): Cairo bindings for Hare
+* [~vladh/hare-freetype2](https://git.sr.ht/~vladh/hare-freetype2): Hare freetype2 bindings
+* [~vladh/hello-hare-wl](https://git.sr.ht/~vladh/hello-hare-wl): A Hare 2D graphics demo
+
+## Graphics, 3D
 
 * [~evantj/hare-raylib](https://git.sr.ht/~evantj/hare-raylib): raylib bindings for Hare
 * [~sircmpwn/hare-sdl2](https://git.sr.ht/~sircmpwn/hare-sdl2): SDL2 bindings for Hare
-* [~sircmpwn/tetrominoes](https://git.sr.ht/~sircmpwn/tetrominoes): Tetromino game
 * [~turminal/raytracing](https://git.sr.ht/~turminal/raytracing): A simple ray tracer in Hare
-* [~une/hare-cairo](https://git.sr.ht/~une/hare-cairo): Cairo bindings for Hare
 * [~vladh/glad](https://git.sr.ht/~vladh/glad): Fork of https://github.com/Dav1dde/glad with Hare support
 * [~vladh/hare-gl](https://sr.ht/~vladh/hare-gl): OpenGL bindings for Hare
 * [~vladh/hare-glm](https://sr.ht/~vladh/hare-glm): An OpenGL-compatible linear algebra library for Hare
