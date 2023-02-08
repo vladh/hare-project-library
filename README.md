@@ -12,6 +12,10 @@ If you're interested specifically in 3D graphics, check out
 † project included in the
 [Hare extended support libraries](https://harelang.org/extended/)
 
+## Audio
+
+* [~vladh/hare-pipewire](https://git.sr.ht/~vladh/hare-pipewire): Pipewire bindings
+
 ## Algorithms
 
 * [~pierrec/hare-lz4](https://git.sr.ht/~pierrec/hare-lz4): LZ4 compression algorithm
@@ -123,6 +127,8 @@ If you're interested specifically in 3D graphics, check out
 * [~sircmpwn/hare-png](https://git.sr.ht/~sircmpwn/hare-png)†: PNG implementation for Hare
 * [~sircmpwn/hare-qoi](https://git.sr.ht/~sircmpwn/hare-qoi): Quite OK image format for Hare
 * [~sircmpwn/hare-xml](https://git.sr.ht/~sircmpwn/hare-xml)†: XML support for Hare
+* [~vladh/hare-spapod](https://git.sr.ht/~vladh/hare-spapod): SPA POD format
+* [~vladh/hare-wav](https://git.sr.ht/~vladh/hare-wav): WAV file support
 
 ## Utilities and system tools
 
