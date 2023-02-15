@@ -41,6 +41,7 @@ If you're interested specifically in 3D graphics, check out
 
 ## General applications
 
+* [~illiliti/hare-keepass](https://codeberg.org/illiliti/hare-keepass): KeePass library & utility
 * [~sircmpwn/himitsu](https://sr.ht/~sircmpwn/himitsu): A secret storage system
 
 ## Graphics, 2D
