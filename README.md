@@ -117,10 +117,12 @@ If you're interested specifically in 3D graphics, check out
 
 ## Parsers and file format utilities
 
+* [~blainsmith/hare-csv](https://git.sr.ht/~blainsmith/hare-csv): CSV reading and writing support for Hare
 * [~chrisppy/hare-atom](https://git.sr.ht/~chrisppy/hare-atom): atom implementation for Hare
 * [~chrisppy/hare-rss](https://git.sr.ht/~chrisppy/hare-rss): rss implementation for Hare
 * [~chrisppy/hare-scfg](https://git.sr.ht/~chrisppy/hare-scfg): A Hare library for a simple configuration file format
 * [~ecs/hare-stl](https://git.d2evs.net/~ecs/hare-stl): STL implementation for Hare
+* [~jfentker/hare-csv](https://git.sr.ht/~jfentker/hare-csv): CSV support for Hare
 * [~phw/hare-discid](https://git.sr.ht/~phw/hare-discid/): Hare bindings for MusicBrainz libdiscid
 * [~pierrec/hare-bmp](https://git.sr.ht/~pierrec/hare-bmp): BMP lossless image format
 * [~pierrec/hare-qoi](https://git.sr.ht/~pierrec/hare-qoi): QOI lossless image format
