@@ -91,6 +91,10 @@ If you're interested specifically in 3D graphics, check out
 * [~blainsmith/hare-logfmt](https://git.sr.ht/~blainsmith/hare-logfmt): A logfmt formatter for [log::logger](https://docs.harelang.org/log)
 * [~blainsmith/hare-prometheus](https://git.sr.ht/~blainsmith/hare-prometheus): [Prometheus](https://prometheus.io) metrics
 
+## Low-level primitives
+
+* [~illiliti/hare-atomics](https://codeberg.org/illiliti/hare-atomics): Atomic operations
+
 ## Math
 
 * [~smlavine/quadratic](https://sr.ht/~smlavine/quadratic): A simple command-line quadratic formula solver
