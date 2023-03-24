@@ -142,6 +142,7 @@ If you're interested specifically in 3D graphics, check out
 ## Utilities and system tools
 
 * [~autumnull/haredo](https://sr.ht/~autumnull/haredo): A simple and unix-idiomatic build automator
+* [~autumnull/straws](https://git.sr.ht/~autumnull/straws): Like fortune(1) but not terrible
 * [~autumnull/treecat](https://sr.ht/~autumnull/treecat/): Serialize a directory to a tree diagram, and vice versa
 * [~sircmpwn/harsh](https://git.sr.ht/~sircmpwn/harsh): A Unix shell inspired by Plan 9's rc
 * [~sircmpwn/hautils](https://git.sr.ht/~sircmpwn/hautils): POSIX utilities implemented in Hare
