@@ -71,6 +71,7 @@ If you're interested specifically in 3D graphics, check out
 ## GUI
 
 * [~renart/hare-bemenu](https://git.sr.ht/~renart/hare-bemenu): Hare bindings for bemenu
+* [~yerinalexey/hare-gi](https://git.sr.ht/~yerinalexey/hare-gi): GTK bindings and GObject Introspection bindings generator for Hare
 * [~yerinalexey/hare-libui](https://git.sr.ht/~yerinalexey/hare-libui): Work-in-progress Hare bindings for the libui library
 
 ## Hare language utilities
