@@ -106,6 +106,7 @@ If you're interested specifically in 3D graphics, check out
 
 * [~apreiml/hare-tls](https://git.sr.ht/~apreiml/hare-tls): Hare TLS library
 * [~bitfehler/hare-tftp](https://git.sr.ht/~bitfehler/hare-tftp): TFTP library/client/server
+* [~bitfehler/pawdns](https://git.sr.ht/~bitfehler/pawdns): A suite of DNS tools written in Hare
 * [~blainsmith/hare-icmp](https://git.sr.ht/~blainsmith/hare-icmp): Hare ICMP library
 * [~illiliti/hare-dnscrypt](https://codeberg.org/illiliti/hare-dnscrypt): dnscrypt client & server
 * [~sircmpwn/btqd](https://git.sr.ht/~sircmpwn/btqd): Bittorrent queue daemon
