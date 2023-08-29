@@ -114,7 +114,6 @@ If you're interested specifically in 3D graphics, check out
 * [~sircmpwn/hare-irc](https://git.sr.ht/~sircmpwn/hare-irc): net::irc for Hare
 * [~sircmpwn/harebot](https://git.sr.ht/~sircmpwn/harebot): IRC bot for the #hare channel on libera.chat
 * [~sircmpwn/toothbrush](https://git.sr.ht/~sircmpwn/toothbrush): A finger server and client
-* [~yerinalexey/kanji](https://git.sr.ht/~yerinalexey/kanji): Modern IRC server
 
 ## Operating systems
 
