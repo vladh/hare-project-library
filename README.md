@@ -30,6 +30,7 @@ If you're interested specifically in 3D graphics, check out
 
 * [~blainsmith/hare-seahash](https://git.sr.ht/~blainsmith/hare-seahash): Seahash hashing algorithm
 * [~nlordell/hare-sha3](https://git.sr.ht/~nlordell/hare-sha3): SHA3 implementation
+* [~apreiml/hare-openpgp](https://git.sr.ht/~apreiml/hare-openpgp): OpenPGP implementation
 
 ## Database tools
 
