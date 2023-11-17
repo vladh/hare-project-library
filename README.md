@@ -151,6 +151,7 @@ If you're interested specifically in 3D graphics, check out
 * [~sircmpwn/harsh](https://git.sr.ht/~sircmpwn/harsh): A Unix shell inspired by Plan 9's rc
 * [~sircmpwn/hautils](https://git.sr.ht/~sircmpwn/hautils): POSIX utilities implemented in Hare
 * [~sircmpwn/scheduled](https://git.sr.ht/~sircmpwn/scheduled): A daemon for scheduling tasks
+* [~smlavine/onclick](https://git.sr.ht/~smlavine/onclick): Runs a command every time the terminal is clicked
 * [~torresjrjr/dc](https://git.sr.ht/~torresjrjr/dc): Tiny reverse polish desk calculator
 * [~torresjrjr/ed](https://git.sr.ht/~torresjrjr/ed): POSIX ed, written in Hare
 * [~torresjrjr/entr](https://git.sr.ht/~torresjrjr/entr): A utility which runs arbitrary commands when files change
