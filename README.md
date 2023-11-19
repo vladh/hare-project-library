@@ -133,6 +133,7 @@ If you're interested specifically in 3D graphics, check out
 * [~ecs/hare-stl](https://git.d2evs.net/~ecs/hare-stl): STL implementation for Hare
 * [~jfentker/hare-csv](https://git.sr.ht/~jfentker/hare-csv): CSV support for Hare
 * [~kaathewise/hare-regex](https://git.sr.ht/~kaathewise/hare-regex): Hare regex engine with wider functionality
+* [~lunacb/hare-toml](https://codeberg.org/lunacb/hare-toml): TOML configuration format support
 * [~phw/hare-discid](https://git.sr.ht/~phw/hare-discid/): Hare bindings for MusicBrainz libdiscid
 * [~pierrec/hare-bmp](https://git.sr.ht/~pierrec/hare-bmp): BMP lossless image format
 * [~pierrec/hare-qoi](https://git.sr.ht/~pierrec/hare-qoi): QOI lossless image format
