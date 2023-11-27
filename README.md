@@ -136,6 +136,7 @@ If you're interested specifically in 3D graphics, check out
 * [~phw/hare-discid](https://git.sr.ht/~phw/hare-discid/): Hare bindings for MusicBrainz libdiscid
 * [~pierrec/hare-bmp](https://git.sr.ht/~pierrec/hare-bmp): BMP lossless image format
 * [~pierrec/hare-qoi](https://git.sr.ht/~pierrec/hare-qoi): QOI lossless image format
+* [~sebsite/hare-wordexp-but-like-its-the-posix-version-implemented-in-hare-instead-of-using-the-system-shell](https://git.sr.ht/~sebsite/hare-wordexp-but-like-its-the-posix-version-implemented-in-hare-instead-of-using-the-system-shell): Hare-native POSIX wordexp implementation
 * [~sircmpwn/hare-json](https://sr.ht/~sircmpwn/hare-json)†: JSON support for Hare
 * [~sircmpwn/hare-png](https://git.sr.ht/~sircmpwn/hare-png)†: PNG implementation for Hare
 * [~sircmpwn/hare-qoi](https://git.sr.ht/~sircmpwn/hare-qoi): Quite OK image format for Hare
