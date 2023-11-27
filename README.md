@@ -79,8 +79,6 @@ If you're interested specifically in 3D graphics, check out
 
 ## Hare language utilities
 
-* [~sebsite/hareconv](https://git.sr.ht/~sebsite/hareconv): Hare module -> C header converter
-* [~sebsite/haretags](https://git.sr.ht/~sebsite/haretags): ctags implementation for Hare
 * [~yerinalexey/afl_harec](https://git.sr.ht/~yerinalexey/afl_harec): Hare instrumentation for [AFL](https://github.com/google/AFL)
 * [~yerinalexey/hare-annotate](https://git.sr.ht/~yerinalexey/hare-annotate): A library for implementing code generators
 
