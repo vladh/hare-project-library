@@ -53,7 +53,7 @@ If you're interested specifically in 3D graphics, check out
 * [~sircmpwn/hare-wayland](https://git.sr.ht/~sircmpwn/hare-wayland): Wayland client & server implementation for Hare
 * [~sircmpwn/pixbuf](https://git.sr.ht/~sircmpwn/pixbuf): Pixel buffers for Hare
 * [~sircmpwn/tetrominoes](https://git.sr.ht/~sircmpwn/tetrominoes): Tetromino game
-* [~une/hare-cairo](https://git.sr.ht/~une/hare-cairo): Cairo bindings for Hare
+* [~une/hare-cairo](https://codeberg.org/une/hare-cairo): Cairo bindings for Hare
 * [~vladh/hare-freetype2](https://git.sr.ht/~vladh/hare-freetype2): Hare freetype2 bindings
 * [~stacyharper/hare-xkb](https://git.sr.ht/~stacyharper/hare-xkb): Hare xkbcommon bindings
 * [~vladh/hello-hare-wl](https://git.sr.ht/~vladh/hello-hare-wl): A Hare 2D graphics demo
