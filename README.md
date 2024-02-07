@@ -156,6 +156,7 @@ If you're interested specifically in 3D graphics, check out
 * [~torresjrjr/dc](https://git.sr.ht/~torresjrjr/dc): Tiny reverse polish desk calculator
 * [~torresjrjr/ed](https://git.sr.ht/~torresjrjr/ed): POSIX ed, written in Hare
 * [~torresjrjr/entr](https://git.sr.ht/~torresjrjr/entr): A utility which runs arbitrary commands when files change
+* [~une/hare-sunrise](https://codeberg.org/une/hare-sunrise): Runs a command at sunrise or sunset
 * [~yerinalexey/box](https://git.sr.ht/~yerinalexey/box): Command line encryption utility
 * [~yerinalexey/git-walk.ha](https://git.sr.ht/~yerinalexey/git-walk.ha): Hare implementation of git log/show commands
 * [~yerinalexey/stopwatch](https://git.sr.ht/~yerinalexey/stopwatch): Terminal stopwatch program
