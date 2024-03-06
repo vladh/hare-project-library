@@ -102,6 +102,7 @@ If you're interested specifically in 3D graphics, check out
 
 * [~smlavine/quadratic](https://sr.ht/~smlavine/quadratic): A simple command-line quadratic formula solver
 * [~yerinalexey/csq](https://sr.ht/~yerinalexey/csq): A calculator for common fractions
+* [~miasb/prng_hare](https://git.sr.ht/~miasb/prng_hare): Non-cryptographic pseudo random number generators for hare
 
 ## Networking
 
