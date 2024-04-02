@@ -10,7 +10,7 @@ If you're interested specifically in 3D graphics, check out
 [hare-3d-graphics](https://sr.ht/~vladh/hare-3d-graphics/).
 
 † project included in the
-[Hare extended support libraries](https://harelang.org/extended/)
+[Hare extended support libraries](https://harelang.org/documentation/extlib.html)
 
 ## Audio
 
