@@ -98,6 +98,10 @@ If you're interested specifically in 3D graphics, check out
 
 * [~illiliti/hare-atomics](https://codeberg.org/illiliti/hare-atomics): Atomic operations
 
+## Machine learning
+
+* [~vladh/hare-neural](https://git.sr.ht/~vladh/hare-neural): Basic tools for working with neural networks in Hare
+
 ## Math
 
 * [~smlavine/quadratic](https://sr.ht/~smlavine/quadratic): A simple command-line quadratic formula solver
