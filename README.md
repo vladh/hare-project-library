@@ -60,6 +60,7 @@ If you're interested specifically in 3D graphics, check out
 
 ## Graphics, 3D
 
+* [~bitfehler/hare-lawa](https://git.sr.ht/~bitfehler/hare-lawa): A complete example of a Vulkan rendering displayed in a Wayland window
 * [~evantj/hare-raylib](https://git.sr.ht/~evantj/hare-raylib): raylib bindings for Hare
 * [~sircmpwn/hare-sdl2](https://git.sr.ht/~sircmpwn/hare-sdl2): SDL2 bindings for Hare
 * [~turminal/raytracing](https://git.sr.ht/~turminal/raytracing): A simple ray tracer in Hare
@@ -71,7 +72,6 @@ If you're interested specifically in 3D graphics, check out
 * [~vladh/hare-vulkan-hello-world](https://sr.ht/~vladh/hare-vulkan-hello-world): A simple demo of Hare's Vulkan bindings
 * [~vladh/hare-vulkan](https://sr.ht/~vladh/hare-vulkan): Vulkan bindings for Hare
 * [~vladh/starfield](https://sr.ht/~vladh/starfield): The Windows 3.1 “starfield” screensaver in Hare
-* [~bitfehler/hare-lawa](https://git.sr.ht/~bitfehler/hare-lawa): A complete example of a Vulkan rendering displayed in a Wayland window
 
 ## GUI
 
@@ -155,6 +155,7 @@ If you're interested specifically in 3D graphics, check out
 * [~autumnull/haredo](https://sr.ht/~autumnull/haredo): A simple and unix-idiomatic build automator
 * [~autumnull/straws](https://git.sr.ht/~autumnull/straws): Like fortune(1) but not terrible
 * [~autumnull/treecat](https://sr.ht/~autumnull/treecat/): Serialize a directory to a tree diagram, and vice versa
+* [~bitfehler/hare-fontconfig](https://git.sr.ht/~bitfehler/hare-fontconfig): Hare fontconfig bindings
 * [~onemoresuza/rham](https://sr.ht/~onemoresuza/rham/): A repo herding tool
 * [~sircmpwn/harsh](https://git.sr.ht/~sircmpwn/harsh): A Unix shell inspired by Plan 9's rc
 * [~sircmpwn/hautils](https://git.sr.ht/~sircmpwn/hautils): POSIX utilities implemented in Hare
@@ -167,4 +168,3 @@ If you're interested specifically in 3D graphics, check out
 * [~yerinalexey/box](https://git.sr.ht/~yerinalexey/box): Command line encryption utility
 * [~yerinalexey/git-walk.ha](https://git.sr.ht/~yerinalexey/git-walk.ha): Hare implementation of git log/show commands
 * [~yerinalexey/stopwatch](https://git.sr.ht/~yerinalexey/stopwatch): Terminal stopwatch program
-* [~bitfehler/hare-fontconfig](https://git.sr.ht/~bitfehler/hare-fontconfig): Hare fontconfig bindings
