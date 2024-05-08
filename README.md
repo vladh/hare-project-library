@@ -71,6 +71,7 @@ If you're interested specifically in 3D graphics, check out
 * [~vladh/hare-vulkan-hello-world](https://sr.ht/~vladh/hare-vulkan-hello-world): A simple demo of Hare's Vulkan bindings
 * [~vladh/hare-vulkan](https://sr.ht/~vladh/hare-vulkan): Vulkan bindings for Hare
 * [~vladh/starfield](https://sr.ht/~vladh/starfield): The Windows 3.1 “starfield” screensaver in Hare
+* [~bitfehler/hare-lawa](https://git.sr.ht/~bitfehler/hare-lawa): A complete example of a Vulkan rendering displayed in a Wayland window
 
 ## GUI
 
@@ -166,3 +167,4 @@ If you're interested specifically in 3D graphics, check out
 * [~yerinalexey/box](https://git.sr.ht/~yerinalexey/box): Command line encryption utility
 * [~yerinalexey/git-walk.ha](https://git.sr.ht/~yerinalexey/git-walk.ha): Hare implementation of git log/show commands
 * [~yerinalexey/stopwatch](https://git.sr.ht/~yerinalexey/stopwatch): Terminal stopwatch program
+* [~bitfehler/hare-fontconfig](https://git.sr.ht/~bitfehler/hare-fontconfig): Hare fontconfig bindings
