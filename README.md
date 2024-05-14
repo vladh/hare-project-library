@@ -81,6 +81,7 @@ If you're interested specifically in 3D graphics, check out
 
 ## Hare language utilities
 
+* [~roselandgoose/gen_enum_strs](https://git.sr.ht/~roselandgoose/hare2c2/tree/main/item/cmd/gen_enum_strs): A Hare `fn $enum_to_str($enum) str` code generator
 * [~yerinalexey/afl_harec](https://git.sr.ht/~yerinalexey/afl_harec): Hare instrumentation for [AFL](https://github.com/google/AFL)
 * [~yerinalexey/hare-annotate](https://git.sr.ht/~yerinalexey/hare-annotate): A library for implementing code generators
 
