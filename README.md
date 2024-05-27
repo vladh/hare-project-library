@@ -23,6 +23,7 @@ If you're interested specifically in 3D graphics, check out
 
 ## Compilers and interpreters
 
+* [~nikita-popov/mice](https://codeberg.org/nikita-popov/mice): Simple and small Scheme interpreter in Hare
 * [~sebsite/hare-c](https://sr.ht/~sebsite/hare-c): C lexer/parser/checker/compiler
 * [~sircmpwn/habf](https://git.sr.ht/~sircmpwn/habf): Hare Brainfuck compiler
 * [~smlavine/bf](https://sr.ht/~smlavine/bf): Modular Brainfuck interpreter written in Hare
