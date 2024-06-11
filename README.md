@@ -103,6 +103,7 @@ If you're interested specifically in 3D graphics, check out
 
 ## Machine learning
 
+* [~dvshkn/llama2.ha](https://sr.ht/~dvshkn/llama2.ha): Llama 2 inference in pure Hare (port of llama2.c)
 * [~vladh/hare-neural](https://git.sr.ht/~vladh/hare-neural): Basic tools for working with neural networks in Hare
 
 ## Math
